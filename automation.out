@@ -1,0 +1,22 @@
+2021-10-09 17:10:868 INFO  RequestStepDefs:76 -  response code 200
+2021-10-09 17:10:463 INFO  responseUtility:38 - Success code isnull
+2021-10-09 17:10:480 INFO  responseUtility:41 - 616055b29548541c29c04911
+2021-10-09 17:10:482 INFO  RequestStepDefs:82 - BINID for response: 616055b29548541c29c04911
+2021-10-09 17:10:482 INFO  RequestStepDefs:84 - Correct response found for BinID 
+2021-10-09 17:10:482 INFO  RequestStepDefs:85 - Status Line codeHTTP/1.1 200 OK
+2021-10-09 17:10:487 INFO  RequestStepDefs:99 - Status line code: HTTP/1.1 200 OK
+2021-10-09 17:10:130 INFO  RequestStepDefs:76 -  response code 200
+2021-10-09 17:10:182 INFO  responseUtility:38 - Success code isnull
+2021-10-09 17:10:214 INFO  responseUtility:41 - 616055b29548541c29c04911
+2021-10-09 17:10:215 INFO  RequestStepDefs:82 - BINID for response: 616055b29548541c29c04911
+2021-10-09 17:10:216 INFO  RequestStepDefs:84 - Correct response found for BinID 
+2021-10-09 17:10:216 INFO  RequestStepDefs:85 - Status Line codeHTTP/1.1 200 OK
+2021-10-09 17:10:247 INFO  RequestStepDefs:91 - BINID creation date for response: 2021-10-08T14:29:06.306Z
+2021-10-09 17:10:950 INFO  RequestStepDefs:76 -  response code 401
+2021-10-09 17:10:955 INFO  RequestStepDefs:105 - {"message":"X-Master-Key is invalid or the bin doesn't belong to your account"}
+2021-10-09 17:10:456 INFO  RequestStepDefs:76 -  response code 200
+2021-10-09 17:10:460 INFO  RequestStepDefs:127 - Response body :{"record":{"sample":"<Hello World>"},"metadata":{"id":"616055b29548541c29c04911","private":true,"createdAt":"2021-10-08T14:29:06.306Z"}}
+2021-10-09 17:10:462 INFO  RequestStepDefs:131 - Response body include metadata
+2021-10-09 17:10:74 INFO  RequestStepDefs:76 -  response code 200
+2021-10-09 17:10:78 INFO  RequestStepDefs:127 - Response body :{"sample":"<Hello World>"}
+2021-10-09 17:10:79 INFO  RequestStepDefs:146 - Response body doesnt include metadata
